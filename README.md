@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Husniddin</h1>
     <h3 align="center">A passionate fullstack developer from Uzbekistan</h3>
-     <img width="100%" height="250" src="https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg" alt="">
-      
-       <img align="right" width="400"  src="https://25.media.tumblr.com/f1fea510d6f3495c0a33e5f45c978ff9/tumblr_muf3e3Qhe51ru39xmo1_500.gif" alt="coding">
+     <img width="100%" height="250" src="https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg" alt="img">
      
-   -  🌱 I’m currently learning **Bootstrap and Js**
+ -  🌱 I’m currently learning **Bootstrap and Js**
 
 - 💬 Ask me about **Html, css and sass**
 
 - 📫 How to reach me **husniddinbek0910@gmail.com**
 
 - ⚡ Amazing fact **I would say, I am invincible😎**
+-  <img align="right" width="400"  src="https://25.media.tumblr.com/f1fea510d6f3495c0a33e5f45c978ff9/tumblr_muf3e3Qhe51ru39xmo1_500.gif" alt="coding">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamhusniddin&label=Profile%20views&color=0e75b6&style=flat" alt="iamhusniddin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamhusniddin" alt="iamhusniddin" /></a> </p>
