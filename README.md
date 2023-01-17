@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Husniddin</h1>
     <h3 align="center">A passionate fullstack developer from Uzbekistan</h3>
+     <img width="100%" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjvJxrc714ZQTY_mNJtfkhvqbH9b6kCAZ-RA&usqp=CAU" alt="">
     
 - 🌱 I’m currently learning **Bootstrap and Js**
 
