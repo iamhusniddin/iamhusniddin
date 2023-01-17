@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Husniddin</h1>
     <h3 align="center">A passionate fullstack developer from uzbekistan</h3>
-    <img align="right" width="400"  src="https://25.media.tumblr.com/f1fea510d6f3495c0a33e5f45c978ff9/tumblr_muf3e3Qhe51ru39xmo1_500.gif" alt="coding">
+    <img align="right" width="300"  src="https://25.media.tumblr.com/f1fea510d6f3495c0a33e5f45c978ff9/tumblr_muf3e3Qhe51ru39xmo1_500.gif" alt="coding">
     
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamhusniddin&label=Profile%20views&color=0e75b6&style=flat" alt="iamhusniddin" /> </p>
     
