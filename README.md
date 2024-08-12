@@ -4,13 +4,10 @@
      
 -  <img align="right" width="400"  src="https://25.media.tumblr.com/f1fea510d6f3495c0a33e5f45c978ff9/tumblr_muf3e3Qhe51ru39xmo1_500.gif" alt="coding">
 
--  🌱 I’m currently learning **Js**
-
-- 💬 Ask me about **Html, css, Bootstrap and Tailwind**
+- 💬 Ask me about **Html, Css, Tailwind, Js and React**
 
 - 📫 How to reach me **husniddinbek0910@gmail.com**
-
-- ⚡ Amazing fact **I would say, I am invincible😎**
+- 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamhusniddin&label=Profile%20views&color=0e75b6&style=flat" alt="iamhusniddin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamhusniddin" alt="iamhusniddin" /></a> </p>
